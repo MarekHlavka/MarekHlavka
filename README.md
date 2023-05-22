@@ -1,5 +1,4 @@
 <div align="center">
-  <img height=300 src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif"/>
   <img height=300 src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"/>
 </div>
 
