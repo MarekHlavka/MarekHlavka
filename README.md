@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://tenor.com/view/profile-picture-discord-gif-19750118"  />
+  <img height="500" src="https://images.wallpaperscraft.com/image/single/laptop_screen_code_211904_2560x1024.jpg"  />
 </div>
 
 ###
