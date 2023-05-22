@@ -1,6 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:45%;position:relative;">
-  <iframe src="https://giphy.com/embed/frNC8HLtwZjOLLPbV7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<iframe src="https://giphy.com/embed/frNC8HLtwZjOLLPbV7" width="480" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-gppark-frNC8HLtwZjOLLPbV7">via GIPHY</a></p>
 
 ###
 
