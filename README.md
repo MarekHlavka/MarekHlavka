@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm IT student from Brno, Czech Republic.<br><br>- 🔭 I’m working part-time outside of the IT field.<br>- 📚 I'm currently learning Unreal Engine 5.1.<br>- ⚡ In my free time I work on personal projects, learning new technologies, studying, and enjoying other hobbies.</p>
+<p align="left">I'm IT student from Brno, Czech Republic.<br><br>- 🔭 I’m working part-time outside of the IT field.<br>- 📚 I'm currently learning Unity3D<br>- ⚡ In my free time I work on personal projects, learning new technologies, studying, and enjoying other hobbies.</p>
 
 ###
 
