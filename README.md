@@ -70,11 +70,11 @@
 
 ###
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=TextImageThresholder)](https://github.com/MarekHlavka/TextImageThresholder)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=Unity_framework_3D_technologies)](https://github.com/MarekHlavka/Unity_framework_3D_technologies)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=Surface-reconstruction-from-pint-cloud)](https://github.com/MarekHlavka/Surface-reconstruction-from-pint-cloud)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=PROLOG-Rubiks-cube-solver)](https://github.com/MarekHlavka/PROLOG-Rubiks-cube-solver)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=icmp_ftp)](https://github.com/MarekHlavka/icmp_ftp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=Planet-and-space-objects-generator)](https://github.com/MarekHlavka/Planet-and-space-objects-generator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=TextImageThresholder)](https://github.com/MarekHlavka/TextImageThresholder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=Unity_framework_3D_technologies)](https://github.com/MarekHlavka/Unity_framework_3D_technologies)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=Surface-reconstruction-from-pint-cloud)](https://github.com/MarekHlavka/Surface-reconstruction-from-pint-cloud)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=PROLOG-Rubiks-cube-solver)](https://github.com/MarekHlavka/PROLOG-Rubiks-cube-solver)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=icmp_ftp)](https://github.com/MarekHlavka/icmp_ftp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=Planet-and-space-objects-generator)](https://github.com/MarekHlavka/Planet-and-space-objects-generator)
 
 ###
