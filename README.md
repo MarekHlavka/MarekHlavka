@@ -76,5 +76,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=PROLOG-Rubiks-cube-solver)](https://github.com/MarekHlavka/PROLOG-Rubiks-cube-solver)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=icmp_ftp)](https://github.com/MarekHlavka/icmp_ftp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=Planet-and-space-objects-generator)](https://github.com/MarekHlavka/Planet-and-space-objects-generator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekHlavka&repo=FlowSimulation)](https://github.com/MarekHlavka/FlowSimulation)
 
 ###
